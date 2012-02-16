@@ -1,0 +1,5 @@
+G:\Work\Distributed-MapReduce-Framework\DMF.Core.Framework\bin\Debug\DMF.Core.Framework.dll
+G:\Work\Distributed-MapReduce-Framework\DMF.Core.Framework\bin\Debug\DMF.Core.Framework.pdb
+G:\Work\Distributed-MapReduce-Framework\DMF.Core.Framework\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Distributed-MapReduce-Framework\DMF.Core.Framework\obj\Debug\DMF.Core.Framework.dll
+G:\Work\Distributed-MapReduce-Framework\DMF.Core.Framework\obj\Debug\DMF.Core.Framework.pdb

@@ -1,0 +1,27 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BC76E8C0-3A41-4073-BD2B-EFEE50760427/f:NuGet.Config/l:G!?Work?Distributed-MapReduce-Framework?.nuget?NuGet.Config" caret="0" fromTop="0" />
+      <File id="BC76E8C0-3A41-4073-BD2B-EFEE50760427/f:NuGet.targets/l:G!?Work?Distributed-MapReduce-Framework?.nuget?NuGet.targets" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="47816DC8-65E1-42F8-91C3-74DAEAD03492" ModuleId="DMF.Core" />
-  <Module PersistentId="68CBBCE5-2355-46C9-B77B-500F70E3697B" ModuleId="DMF.MasterNode" />
-  <Module PersistentId="E99B0834-3F9D-48FE-8A60-AB8BC8ABA6AA" ModuleId="DMF.SlaveNode" />
-  <Module PersistentId="83FAA5E8-208D-45D5-8687-1475BB5C652A" ModuleId="DMF.MasterNode.Manager" />
-  <Module PersistentId="B3BD8CC1-29BF-4CE6-9F81-069379AF1DBE" ModuleId="DMF.Core.Framework" />
-</Modules>

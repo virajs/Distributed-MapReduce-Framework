@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMF.MasterNode.Manager", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMF.Core.Framework", "DMF.Core.Framework\DMF.Core.Framework.csproj", "{B3BD8CC1-29BF-4CE6-9F81-069379AF1DBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMF.WindowsService.Master", "DMF.WindowsService.Master\DMF.WindowsService.Master.csproj", "{46EE3004-A5CB-445A-9ABE-FEEA2CB5F045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMF.WindowsService.Cluster", "DMF.WindowsService.Master\DMF.WindowsService.Cluster.csproj", "{46EE3004-A5CB-445A-9ABE-FEEA2CB5F045}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B3BD8CC1-29BF-4CE6-9F81-069379AF1DBE} = {B3BD8CC1-29BF-4CE6-9F81-069379AF1DBE}
 		{47816DC8-65E1-42F8-91C3-74DAEAD03492} = {47816DC8-65E1-42F8-91C3-74DAEAD03492}

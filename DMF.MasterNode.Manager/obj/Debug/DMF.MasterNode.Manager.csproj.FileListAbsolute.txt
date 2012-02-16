@@ -1,5 +1,0 @@
-G:\Work\Distributed-MapReduce-Framework\DMF.MasterNode.Manager\bin\DMF.MasterNode.Manager.dll
-G:\Work\Distributed-MapReduce-Framework\DMF.MasterNode.Manager\bin\DMF.MasterNode.Manager.pdb
-G:\Work\Distributed-MapReduce-Framework\DMF.MasterNode.Manager\obj\Debug\ResolveAssemblyReference.cache
-G:\Work\Distributed-MapReduce-Framework\DMF.MasterNode.Manager\obj\Debug\DMF.MasterNode.Manager.dll
-G:\Work\Distributed-MapReduce-Framework\DMF.MasterNode.Manager\obj\Debug\DMF.MasterNode.Manager.pdb

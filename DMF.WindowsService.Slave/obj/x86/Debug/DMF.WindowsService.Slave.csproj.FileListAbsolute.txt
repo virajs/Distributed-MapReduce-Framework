@@ -1,5 +1,0 @@
-G:\Work\Distributed-MapReduce-Framework\DMF.WindowsService.Slave\bin\Debug\DMF.WindowsService.Slave.exe
-G:\Work\Distributed-MapReduce-Framework\DMF.WindowsService.Slave\bin\Debug\DMF.WindowsService.Slave.pdb
-G:\Work\Distributed-MapReduce-Framework\DMF.WindowsService.Slave\obj\x86\Debug\ResolveAssemblyReference.cache
-G:\Work\Distributed-MapReduce-Framework\DMF.WindowsService.Slave\obj\x86\Debug\DMF.WindowsService.Slave.exe
-G:\Work\Distributed-MapReduce-Framework\DMF.WindowsService.Slave\obj\x86\Debug\DMF.WindowsService.Slave.pdb

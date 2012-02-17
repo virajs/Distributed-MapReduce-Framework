@@ -1,5 +1,5 @@
 ﻿using System.ServiceModel;
-using DMF.Core.Contract;
+using DMF.Core.Interfaces.Service;
 
 namespace DMF.Core.Framework.Service
 {

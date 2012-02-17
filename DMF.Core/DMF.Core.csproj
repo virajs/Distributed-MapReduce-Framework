@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MongoDB.Bson">
+      <HintPath>..\packages\mongocsharpdriver.1.3.1\lib\net35\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>..\packages\mongocsharpdriver.1.3.1\lib\net35\MongoDB.Driver.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
@@ -43,14 +49,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IFinalizer.cs" />
-    <Compile Include="IInputReader.cs" />
-    <Compile Include="IMapper.cs" />
-    <Compile Include="IOutputWriter.cs" />
-    <Compile Include="IReducer.cs" />
-    <Compile Include="Model\Job.cs" />
+    <Compile Include="Domain\Job.cs" />
+    <Compile Include="Domain\OutputStore.cs" />
+    <Compile Include="Interfaces\IInputReader.cs" />
+    <Compile Include="Interfaces\IMapper.cs" />
+    <Compile Include="Interfaces\IOutputService.cs" />
+    <Compile Include="Interfaces\IReducer.cs" />
+    <Compile Include="MapReducer.cs" />
+    <Compile Include="Domain\JobsContainer.cs" />
+    <Compile Include="OutputType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Contract\IJobManager.cs" />
+    <Compile Include="Interfaces\Service\IJobManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
